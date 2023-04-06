@@ -32,8 +32,7 @@
 	- Upload a4.ipynb file.
 	- Screenshots of Skillsets 10-12.
 
-5. [A5 README.md](a5/README.md "Assignment 5 README.md file")
-	- TBD
+
 
 *Project Work Links*
 
